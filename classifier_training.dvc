@@ -1,6 +1,6 @@
 outs:
-- md5: f7850065c63f83fe87877002124b554f.dir
-  size: 29546436
-  nfiles: 19
+- md5: f90c6076e6e9d26067baffd3eb5b9a45.dir
+  size: 61640321
+  nfiles: 38
   hash: md5
   path: classifier_training

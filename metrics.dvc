@@ -1,6 +1,6 @@
 outs:
-- md5: 2242fe3668c7f6f2933766732f3b693d.dir
-  size: 431714
-  nfiles: 3
+- md5: 26f3cbc227de92193ae30dcd4e57025b.dir
+  size: 431287
+  nfiles: 4
   hash: md5
   path: metrics
